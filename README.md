@@ -1,6 +1,5 @@
 
-
-                                         <caption align="center">As-salamu Alaykum. Greetings, I'm Maria Binte Belal. </caption >
+<h6> As-salamu Alaykum. Greetings, I'm Maria Binte Belal. </h6>
    
   
 
